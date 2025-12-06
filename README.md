@@ -107,8 +107,9 @@ All trained models (TF-IDF + Logistic Regression) are exported using pickle for 
 
 
 #👨‍💻 Developed By
-<h2> Ayush </pre>
-- 💼 LinkedIn: https://linkedin.com/in/ayush130
+<h2> Ayush 
+<pre>
+- 💼LinkedIn: https://linkedin.com/in/ayush130
 - 💻GitHub: https://github.com/ayush13-0
 - ✉️Email- bhanuseenu914@gmail.com
 
