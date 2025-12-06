@@ -1,4 +1,25 @@
-<p align="center"> <img src="https://img.shields.io/badge/Sentiment%20Analysis-Consumer%20MultiSource-blueviolet?style=for-the-badge&logo=python&logoColor=white" /> </p> <h1 align="center">🔍 Consumer Sentiment & Emotion Analysis (Amazon + Twitter + News)</h1> <p align="center"> <b>CodeAlpha Internship — Task 4</b> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Sentiment%20Analysis-Consumer%20MultiSource-blueviolet?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<h1 align="center">🔍 Consumer Sentiment & Emotion Analysis (Amazon + Twitter + News)</h1>
+
+<p align="center">
+  <b>CodeAlpha Internship — Task 4</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/ML-Scikit--Learn-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Boosting-XGBoost-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Visualization-Matplotlib-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Visualization-Seaborn-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streamlit-Web%20App-brightgreen?style=for-the-badge&logo=streamlit" />
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-purple?style=for-the-badge" />
+</p>
+
+---
+
 # 📖 Overview
 This project performs Sentiment Analysis and Emotion Detection using text collected from three different real-world sources:
 - Amazon Product Reviews
