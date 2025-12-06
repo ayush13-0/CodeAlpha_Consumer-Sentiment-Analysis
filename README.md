@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Visualization-WordCloud-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Production%20Ready-purple?style=for-the-badge" />
 </p>
-
+------------------------------------------------------------------------------------------------------------------------------------
 # 📖 Project Overview
 This project performs Sentiment Analysis and Emotion Detection using text collected from three different real-world sources:
 - Amazon Product Reviews
@@ -107,8 +107,8 @@ All trained models (TF-IDF + Logistic Regression) are exported using pickle for 
 
 
 #👨‍💻 Developed By
-<h2> Ayush 
-<pre>
+# Ayush 
+-----------------------------------------------
 - 💼LinkedIn: https://linkedin.com/in/ayush130
 - 💻GitHub: https://github.com/ayush13-0
 - ✉️Email- bhanuseenu914@gmail.com
