@@ -128,7 +128,7 @@ All trained models (TF-IDF + Logistic Regression) are exported using pickle for 
 - Clean bar charts for sentiment trend comparison
 
 
-#👨‍💻 Developed By
+# 👨‍💻 Developed By
 # Ayush 
 -----------------------------------------------
 - 💼LinkedIn: https://linkedin.com/in/ayush130
