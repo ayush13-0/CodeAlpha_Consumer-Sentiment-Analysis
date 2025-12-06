@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Sentiment%20Analysis-Consumer%20MultiSource-blueviolet?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<h1 align="center">🔍 Consumer Sentiment & Emotion Analysis (Amazon + Twitter + News)</h1>
+<h1 align="center">🔍🤖 Consumer Sentiment & Emotion Analysis (Amazon + Twitter + News)</h1>
 
 <p align="center">
   <b>CodeAlpha Internship — Task 4</b>
@@ -13,14 +13,12 @@
   <img src="https://img.shields.io/badge/Pandas-dataframe-lightgrey?style=for-the-badge&logo=pandas" />
   <img src="https://img.shields.io/badge/NumPy-numeric-yellow?style=for-the-badge&logo=numpy" />
   <img src="https://img.shields.io/badge/ML-Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn" />
-  <img src="https://img.shields.io/badge/Boosting-XGBoost-red?style=for-the-badge&logo=xgboost" />
   <img src="https://img.shields.io/badge/NLP-NLTK-lightblue?style=for-the-badge&logo=nltk" />
   <img src="https://img.shields.io/badge/Sentiment-VADER-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Sentiment-TextBlob-pink?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Visualization-Matplotlib-green?style=for-the-badge&logo=matplotlib" />
   <img src="https://img.shields.io/badge/Visualization-Seaborn-red?style=for-the-badge&logo=seaborn" />
   <img src="https://img.shields.io/badge/Visualization-WordCloud-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streamlit-Web%20App-brightgreen?style=for-the-badge&logo=streamlit" />
   <img src="https://img.shields.io/badge/Status-Production%20Ready-purple?style=for-the-badge" />
 </p>
 ---
@@ -110,10 +108,10 @@ All trained models (TF-IDF + Logistic Regression) are exported using pickle for 
 
 
 #👨‍💻 Developed By
-- Ayush
-📧 Email: bhanuseenu914@gmail.com
-- 🔗 LinkedIn: https://linkedin.com/in/ayush130
-- 🔗 GitHub: https://github.com/ayush13-0
+<h2> Ayush </pre>
+- 💼 LinkedIn: https://linkedin.com/in/ayush130
+- 💻GitHub: https://github.com/ayush13-0
+- ✉️Email- bhanuseenu914@gmail.com
 
 📜 License
 - This project is licensed under the **MIT License**.
