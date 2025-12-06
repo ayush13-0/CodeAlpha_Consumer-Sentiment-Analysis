@@ -30,6 +30,26 @@ This project performs Sentiment Analysis and Emotion Detection using text collec
 The goal is to classify text into Positive, Neutral, or Negative, detect emotional tone, and compare public opinion patterns across multiple platforms.
 This project was developed as part of the CodeAlpha Data Analytics Internship (Task-4).
 
+# Dataset :-
+*✅ 1. Amazon Reviews Dataset (Small & Clean)*
+- Name: Amazon Fine Food Reviews – Sample
+- Rows: ~10,000
+- Columns: Text, Score, Sentiment
+- Download (CSV): https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+
+*✅ 2. Twitter Sentiment Dataset (Clean CSV)*
+- Name: Twitter US Airline Sentiment
+- Rows: ~14,000
+- Columns: tweet_id, text, airline, sentiment
+- Download (CSV): https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
+
+*✅ 3. News Sentiment Dataset*
+- Name: News Category Dataset
+- Rows: ~200,000
+- Columns: headline, category, short_description
+- Download (JSON/CSV): https://www.kaggle.com/datasets/rmisra/news-category-dataset
+(You can convert it into sentiment manually or use existing labels.)
+
 # 🎯 Objectives :-
 - Clean & preprocess text from 3 different datasets
 - Perform rule-based sentiment analysis (VADER + TextBlob)
