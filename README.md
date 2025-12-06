@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/Visualization-WordCloud-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Production%20Ready-purple?style=for-the-badge" />
 </p>
---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 📖 Project Overview
 This project performs Sentiment Analysis and Emotion Detection using text collected from three different real-world sources:
