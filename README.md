@@ -52,7 +52,7 @@ This project was developed as part of the CodeAlpha Data Analytics Internship (T
 │   └── tfidf_vectorizer.pkl
 │
 ├── notebooks/
-│   └── Consumer_sentiment_analysis.ipynb
+│   └── Consumer Sentiment Analysis.ipynb
 │
 ├── requirements.txt
 └── README.md
