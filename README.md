@@ -4,8 +4,7 @@
 
 <h1 align="center">🔍🤖 Consumer Sentiment & Emotion Analysis (Amazon+Twitter+News)</h1>
 
-<p align="center">
-  <b>CodeAlpha Internship — Task 4</b>
+<p align="center"> <img src="https://img.shields.io/badge/Internship-CodSoft%20ML%20Internship-black?style=for-the-badge" />
 </p>
 
 <p align="center">
