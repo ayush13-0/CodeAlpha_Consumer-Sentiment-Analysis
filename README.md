@@ -4,7 +4,7 @@
 
 <h1 align="center">🔍🤖 Consumer Sentiment & Emotion Analysis (Amazon+Twitter+News)</h1>
 
-<p align="center"> <img src="https://img.shields.io/badge/Internship-CodeAlpha%20ML%20Internship-black?style=for-the-badge" />
+<p align="center"> <img src="https://img.shields.io/badge/Internship-CodeAlpha%20ML%20Internship-darkgrey?style=for-the-badge" />
 </p>
 
 <p align="center">
